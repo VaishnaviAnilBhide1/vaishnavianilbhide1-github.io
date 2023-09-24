@@ -1,10 +1,6 @@
-Built using:
+Welcome to my portfolio website !
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
-
-In the /personal-portfolio, you can run:
+<img width="1440" alt="Screen Shot 2023-09-23 at 11 37 56 PM" src="https://github.com/VaishnaviAnilBhide1/vaishnavianilbhide1.github.io/assets/145797844/b3a60708-bb7a-452a-a2b8-2a5cedb633df">
 
 ### `npm start`
 
